@@ -9,3 +9,10 @@
 * Slicing the message.
 * Reversing the entire message.
 
+#### Exercice 3
+
+* Creating the user list and adding items.
+* Removing an user and reversing the list.
+* Inserting an user and combining lists.
+* Slicing the list
+

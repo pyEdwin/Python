@@ -9,8 +9,7 @@ users.insert(1 , "Melody")
 users += ["Pierre" , "Mike"]
 new_users = users[0:1]
 
-
 print(users)
 print(new_users)
-#print(reversed_users)
+
 

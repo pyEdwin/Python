@@ -24,4 +24,4 @@
 
 #### Exercice 5
 
-* Write a program that reads any number of integers from the command line and prints the cumulative total for each successive argument
+* Write a program that reads any number of integers from the command line and prints the cumulative total for each successive argument.

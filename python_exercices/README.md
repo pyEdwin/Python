@@ -25,3 +25,8 @@
 #### Exercice 5
 
 * Write a program that reads any number of integers from the command line and prints the cumulative total for each successive argument.
+
+
+#### Exercice 6
+
+* Write a program that prints the number of words on each line of a given file(don't worry about punction).

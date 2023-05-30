@@ -29,4 +29,4 @@
 
 #### Exercice 6
 
-* Write a program that prints the number of words on each line of a given file(don't worry about punction).
+* Write a program that prints the number of words on each line of a given file.

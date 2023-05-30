@@ -30,3 +30,8 @@
 #### Exercice 6
 
 * Write a program that prints the number of words on each line of a given file.
+
+#### Exercice 7:
+
+* Impliment the **Todo** class
+* Impliment the **TodoList** class

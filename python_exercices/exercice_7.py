@@ -20,6 +20,7 @@ class TodoList:
             total +=todo.points
         return total / len(self.todos)
 
+
     def completed(self):
         results = []
         for todo in self.todos:
@@ -36,3 +37,5 @@ class TodoList:
 
 user  = Todo("Pierre" , "wash clothes" , 1 )
 print(repr(user))
+
+u = TodoList
